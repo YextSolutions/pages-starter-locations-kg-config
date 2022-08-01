@@ -136,15 +136,15 @@
           "id": "addressHidden"
         },
         {
-          "id": "serviceAreaPlaces"
-        },        
-        {
           "id": "mainPhone",
           "visibleOnAdd": true
         },
         {
           "id": "entityId",
           "visibleOnAdd": true
+        },
+        {
+          "id": "slug"
         }
       ]
     },
@@ -1163,9 +1163,6 @@
         },
         {
           "id": "timezone"
-        },
-        {
-          "id": "slug"
         }
       ]
     },

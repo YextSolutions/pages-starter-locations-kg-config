@@ -14,11 +14,7 @@
       "faq-1",
       "faq-2"
     ],
-    "categoryIds": [
-      "152"
-    ],
-    "covidMessaging": "We are open!",
-    "description": "[[name]] is a taco restaurant chain located in [[address.city]], [[address.region]]. We\u0027re serving all your favorite menu items, from classic tacos and burritos, to new favorites like the Turtlehead Taco Ultimate Taco and Cheesy Turtlehead Deluxe. Order ahead online or on the mobile app for pick up at the restaurant or get it delivered.",
+    "description": "Turtlehead Tacos is a taco restaurant chain located in New York, NY. We\u0027re serving all your favorite menu items, from classic tacos and burritos, to new favorites like the Turtlehead Taco Ultimate Taco and Cheesy Turtlehead Deluxe. Order ahead online or on the mobile app for pick up at the restaurant or get it delivered.",
     "emails": [
       "turtlehead@tacos.com"
     ],
@@ -32,16 +28,6 @@
           }
         ]
       },
-      "holidayHours": [
-        {
-          "date": "2022-12-25",
-          "isClosed": true
-        },
-        {
-          "date": "2023-07-04",
-          "isClosed": true
-        }
-      ],
       "monday": {
         "openIntervals": [
           {
@@ -90,17 +76,12 @@
     "logo": {
       "image": {
         "height": 150,
-        "sourceUrl": "https://a.mktgcdn.com/p-sandbox/8esDUBrhKJnkaVztLihLsC3quv_5BjLFG9L6MJ0adcs/150x150.png",
+        "sourceUrl": "http://a.mktgcdn.com/p/8esDUBrhKJnkaVztLihLsC3quv_5BjLFG9L6MJ0adcs/150x150.png",
         "thumbnails": [
           {
             "height": 150,
             "url": "http://a.mktgcdn.com/p/8esDUBrhKJnkaVztLihLsC3quv_5BjLFG9L6MJ0adcs/150x150.png",
             "width": 150
-          },
-          {
-            "height": 94,
-            "url": "http://a.mktgcdn.com/p/8esDUBrhKJnkaVztLihLsC3quv_5BjLFG9L6MJ0adcs/94x94.png",
-            "width": 94
           }
         ],
         "url": "http://a.mktgcdn.com/p/8esDUBrhKJnkaVztLihLsC3quv_5BjLFG9L6MJ0adcs/150x150.png",
@@ -124,7 +105,7 @@
       {
         "image": {
           "height": 800,
-          "sourceUrl": "https://a.mktgcdn.com/p-sandbox/bckB9EpFMkXJBThYD3w9JiQjOP2Q6km_NdzZmKd62FM/1200x800.jpg",
+          "sourceUrl": "http://a.mktgcdn.com/p/EOfw4a7y-p7RwzI8oosYqgfE_gJuOIKx5tuGMa2uPOA/1200x800.jpg",
           "thumbnails": [
             {
               "height": 800,
@@ -154,7 +135,7 @@
       {
         "image": {
           "height": 408,
-          "sourceUrl": "https://a.mktgcdn.com/p-sandbox/nM67PaSJJlogn1TFjLr575ufdtCZ0_VIXBdtoWGamWU/612x408.jpg",
+          "sourceUrl": "http://a.mktgcdn.com/p/fmIYfJlt1p_XnjNI82SvWCff9eX8RWFI8jc78FH_bgo/612x408.jpg",
           "thumbnails": [
             {
               "height": 408,
@@ -179,7 +160,7 @@
       {
         "image": {
           "height": 1706,
-          "sourceUrl": "https://a.mktgcdn.com/p-sandbox/rjS0OWPo6jkdBXem26-Lmf2B_8C8VTJxguuU44n2Zi0/2560x1706.jpg",
+          "sourceUrl": "http://a.mktgcdn.com/p/dEj7z6VxDoOpWmw1XyT2MxDAEsMaHDBNslgmhZGl4TE/2560x1706.jpg",
           "thumbnails": [
             {
               "height": 1706,
@@ -212,8 +193,7 @@
         }
       }
     ],
-    "priceRange": "TWO",
-    "slug": "[[entityId]]-[[neighborhood]]",
+    "slug": "location5-midtown-manhattan",
     "timezone": "America/New_York",
     "twitterHandle": "turtleheadtacos"
   },
