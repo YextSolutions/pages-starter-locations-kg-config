@@ -13,7 +13,8 @@
       "tacos-pollo-asado",
       "quesadillas-pollo-asado"
     ],
-    "name": "Lunch \u0026 Dinner Menu"
+    "name": "Lunch \u0026 Dinner Menu",
+    "slug": "menu"
   },
   "entityType": "ce_menu",
   "labels": []
